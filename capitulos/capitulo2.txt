@@ -1,1 +1,1 @@
-Capitulo 2 del libro.
+Git es un sistema distribuido.
