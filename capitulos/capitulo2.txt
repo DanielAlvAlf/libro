@@ -1,1 +1,3 @@
-Capitulo 2 del libro.
+Capítulo 2
+
+Git es un sistema de control de versiones.
